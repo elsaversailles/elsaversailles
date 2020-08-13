@@ -1,16 +1,27 @@
-### Hi there 👋
-
+### Hi there I'm Elsa Versailles
+## I'm a high school student and currently learning Java and C++!
+## Some fun facts about me: 
+- I love Disney's film [Frozen](en.m.wikipedia.org/Frozen_2)
+- I'm single if you're curious 😍
+## My fav stuffs in life are:
+* 🍦 Ice cream
+* 🐱 Cats
+* 🖥️ PC
+* 📁Tech stuffs
+* 🐍 Python
 <!--
 **elsaversailles/elsaversailles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Java
+- 🌱 I’m currently learning ... C++
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... Just tag me here
+- ⚡ Fun fact: ... I love cats🐱
 -->
+
+## Quote in life  
+"Hard work never appreciated, only results matter"
+## Emoji center:
+😂🙂😉😍😘😉🤐😯😥🏖️🏜️🌋🎏🎋🎐🎄
