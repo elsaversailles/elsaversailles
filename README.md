@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 "Hard work never appreciated, only results matter"
 ## Emoji center:
 😂🙂😉😍😘😉🤐😯😥🏖️🏜️🌋🎏🎋🎐🎄
+
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImVsc2F2ZXJzYWlsbGVzIiwicmVwbzEiOiJSYW5kb20tUG9ybi1RdWVyeS1HZW5lcmF0b3IiLCJpbmNsdWRlTGludCI6ZmFsc2UsImF1dGhvcklkIjoyNTY3NiwiaWF0IjoxNjA3MjQ4MjI1fQ.HsRvUmXPHKZ8JxhSUfqvmKj6ngmUjREJaky65PrQHJc)](https://www.deepcode.ai/app/gh/elsaversailles/Random-Porn-Query-Generator/_/dashboard?utm_content=gh%2Felsaversailles%2FRandom-Porn-Query-Generator)
