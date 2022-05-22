@@ -2,7 +2,9 @@
 ## I'm a high school student and currently learning Java and C++!
 ## Some fun facts about me: 
 - I love Disney's film Frozen ❄️❄️❄️
-- I'm single if you're curious 😍
+- I love to sleep
+- Playing video games with friends is my pass time
+- But watching Youtube is life :)
 ## My fav stuffs in life are:
 * 🍦 Ice cream
 * 🐱 Cats
