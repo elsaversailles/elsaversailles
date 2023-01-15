@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 "Hard work never appreciated, only results matter"
 ## Emoji center:
 😂🙂😉😍😘😉🤐😯😥🏖️🏜️🌋🎏🎋🎐🎄
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=elsaversailles&theme=omni&show_icons=true&count_private=true)
