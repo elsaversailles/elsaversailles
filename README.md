@@ -1,5 +1,5 @@
 ### Hi there I'm Vince Austria!
-## I'm a high school student and currently learning C++!
+## I'm a College student and currently learning C++!
 ## Some fun facts about me: 
 - I love Disney's film Frozen ❄️❄️❄️
 - I love to sleep
