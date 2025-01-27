@@ -3,7 +3,7 @@
 ## Some fun facts about me: 
 - I love Disney's film Frozen ❄️❄️❄️
 - I love to sleep
-- Plays CoDM 🔫 and Modern Warship 🚢 during pass time
+- Loves Euro Truck Simulator 🚛
 - But watching Youtube is life 😉
 ## My fav stuffs in life are:
 * 🍦 Ice cream
